@@ -18,15 +18,22 @@ Topics:
 - RANSAC Panorama Mosaicing
 
 ## A2
+Topics: 
 - Multi-view Geometry
 - Epipolar Geometry
 
 ## A3
+Topics:
 - Window based stereo + scanlines
 - Verterbi Algorithm
 
 ## A4
+Topics:
 - Graph Cut Algorithms
 - K-means Clustering
 
 ## A5 
+Topics:
+- Supervised Deep Learning for Semantic Segmentation
+
+
